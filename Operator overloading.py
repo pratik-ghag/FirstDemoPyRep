@@ -15,5 +15,6 @@ s1 = Student(52,69)
 s2 = Student(42,68)
 
 s3 = s1 + s2
+print(vars(s3))
 
 
